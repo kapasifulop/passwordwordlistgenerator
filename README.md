@@ -1,4 +1,4 @@
-# passwordwordlistgenerator
+# Password Wordlist Generator
 Simple passwords wordlist generator with python.
 # ----- Help for SPC -----</br>
   -ofile \<output file name\> set output file name</br>
