@@ -17,7 +17,7 @@ def print_help():
 	print(bcolors.OKCYAN + "  -ofile <output file name> set output file name")
 	print(bcolors.OKCYAN + "  -output <true or false> show console generated passwords" )
 	print(bcolors.WARNING + "      correct usage")
-	print(bcolors.OKCYAN + "  python3 spc.py -ofile <output file name> -outuput <true or false>")
+	print(bcolors.OKCYAN + "  python3 spc.py -ofile <output file name> -output <true or false>")
 	print("")
 	
 def pw_gen_2_var(var1, var2):
